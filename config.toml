@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://ai-cluster.ru/below"
-title = "RedLab | IT Company Template"
+title = "Below Technologies"
 theme = "redlab-hugo"
 # post pagination
 paginate = "6"
@@ -116,10 +116,10 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/below_logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Below Technologies"
 author = "Themefisher"
 # contact info
 address = "9567 Turner Trace Apt. BC C3G8A4"
