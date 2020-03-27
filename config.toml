@@ -116,7 +116,7 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/below_logo.png"
+logo = "images/below_logo_5.png"
 home = "Home"
 # Meta data
 description = "Below Technologies"
