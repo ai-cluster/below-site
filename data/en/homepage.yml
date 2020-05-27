@@ -1,8 +1,8 @@
 ################################# Banner ##################################
 banner:
   bg_image: "images/backgrounds/banner.jpg"
-  title : "Below Technologies represents in the Switzerland and Europa elite of IT firms"
-  content : "from Siberia with excellent know hows, own products and experience from realized projects"
+  title : "Below Technologies"
+  content : "represents Innovative Products and Know-How for your Ideas and Projects"
             
   # button primary
   button_solid:
@@ -19,7 +19,7 @@ banner:
 ##################### call to action ########################################
 cta:
   enable : true
-  title : "Looking for First-Class PHP Developer?"
+  title : "Want to grow your business with smart digital approaches?"
   button:
     enable : true
     label : "Contact us"
@@ -28,19 +28,19 @@ cta:
 ################################## about ####################################
 about:
   enable: true
-  image : "images/about/about.jpg"
+  image : "images/about/company_founder.jpg"
   # content supports markdown, make sure to give enough space, otherwise markdown will not work properly
   content : "
 
   ## We are here to always <br> help you
 
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi obcaecati earum quia accusamus quaerat suscipit sit saepe amet explicabo.
+  With approximately 5,000-year history of one of the oldest board games in the world, Go has more combinations than the number of atoms in the universe. These days, the computer cannot even roughly calculate them, let alone analyze them all.
 
 
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero voluptatibus quod placeat eius dolorum cumque
-  neque fugiat. Praesentium consequatur beatae eum quibusdam deleniti vero repellat numquam molestiae labore
-  repellendus enim tempore laborum alias aut ex
-  "
+However, in 2016, Google's AlphaGo machine beat the world champion in this game. Because humans taught them deep learning - a discipline of artificial intelligence - to analyze and learn this game themselves.
+
+
+As a Master in Go, a mathematician (Master of Mathematics), fascinated by new technologies with strong conceptual and analytical skills and an Oracle database specialist with solid experience from projects in Germany, Switzerland and the USA, Wladimir Below has a company in November 2017 Below Technologies founded to offer Swiss medium-sized companies high-tech IT solutions."
   button:
     enable : true
     label : "know more"
@@ -48,7 +48,7 @@ about:
 
 ################################# testimonial ################################
 testimonial:
-  enable : true
+  enable : false
   title : "What People Say?"
   testimonial_item:
     # testimonial item loop

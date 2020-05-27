@@ -4,44 +4,44 @@ gallery:
   title : "Our Featured Gallery"
   gallery_item:
     # gallery item loop
-    - image : "images/gallery/gallery-img-1.jpg"
+    - image : "images/gallery/gallery-1.jpg"
       column : 1 # column is for image width
-      content : "Lorem ipsum dolor sit amet, [themefisher](https://themefisher.com) consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      content : "Below Technologies founded to offer Swiss medium-sized companies high-tech IT solutions"
       
     # gallery item loop
-    - image : "images/gallery/gallery-img-2.jpg"
+    - image : "images/gallery/gallery-2.jpg"
       column : 1 # column is for image width
       content : ""
       
     # gallery item loop
-    - image : "images/gallery/gallery-img-3.jpg"
+    - image : "images/gallery/gallery-3.jpg"
       column : 1 # column is for image width
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      content : " Below Technologies founded to offer Swiss medium-sized companies high-tech IT solutions"
       
     # gallery item loop
-    - image : "images/gallery/gallery-img-4.jpg"
+    - image : "images/gallery/gallery-4.jpg"
       column : 1 # column is for image width
-      content : ""
+      content : "With approximately 5,000-year history of one of the oldest board games in the world, Go has more combinations than the number of atoms in the universe."
       
     # gallery item loop
-    - image : "images/gallery/gallery-img-5.jpg"
+    - image : "images/gallery/gallery-5.jpg"
       column : 1 # column is for image width
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      content : "Wladimir Below has a company in November 2017 Below Technologies founded to offer Swiss medium-sized companies high-tech IT solutions"
 
     # gallery item loop
-    - image : "images/gallery/gallery-img-6.jpg"
+    - image : "images/gallery/gallery-6.jpg"
       column : 2 # column is for image width
-      content : ""
+      content : " (Master of Mathematics), fascinated by new technologies with strong conceptual and analytical skills and an Oracle database specialist with solid experience from projects in Germany, Switzerland and the USA, Wladimir Below has a company in November 2017"
       
     # gallery item loop
-    - image : "images/gallery/gallery-img-7.jpg"
+    - image : "images/gallery/gallery-7.jpg"
       column : 1 # column is for image width
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      content : "Below Technologies founded to offer Swiss medium-sized companies high-tech IT solutions"
 
 
 #################################### team #############################################
 team:
-  enable : true
+  enable : false
   title : "Meet Our Team"
   team_member:
     # team member loop
