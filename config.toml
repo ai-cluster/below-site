@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://ai-cluster.ru/below"
-title = "RedLab | IT Company Template"
+title = "Below Technologies"
 theme = "redlab-hugo"
 # post pagination
 paginate = "6"
@@ -56,16 +56,16 @@ name = "Our references"
 URL = "about"
 weight = 1
 
-[[menu.main]]
-# name = "About"
-name = "Our knowhows"
-URL = "about"
-weight = 2
+# [[menu.main]]
+# # name = "About"
+# name = "Our knowhows"
+# URL = "about"
+# weight = 2
 
-[[menu.main]]
-name = "Our projects"
-URL = "portfolio"
-weight = 3
+# [[menu.main]]
+# name = "Our projects"
+# URL = "portfolio"
+# weight = 3
 
 # [[menu.main]]
 # weight = 3
@@ -83,10 +83,10 @@ weight = 3
   # name = "Our products"
   # URL = "blog"
 
-[[menu.main]]
-weight = 4
-name = "Our products"
-URL = "blog"
+# [[menu.main]]
+# weight = 4
+# name = "Our products"
+# URL = "blog"
   
 # [[menu.main]]
 # name = "Contact"
@@ -95,36 +95,36 @@ URL = "blog"
 
 # footer menu
 [[menu.footer]]
-name = "Latest News"
-URL = "blog"
+name = "Contact Us"
+URL = "contact"
 weight = 1
 
-[[menu.footer]]
-name = "About US"
-URL = "about"
-weight = 2
+# [[menu.footer]]
+# name = "About US"
+# URL = "about"
+# weight = 2
 
-[[menu.footer]]
-name = "Our Service"
-URL = "service"
-weight = 3
+# [[menu.footer]]
+# name = "Our Service"
+# URL = "service"
+# weight = 3
 
-[[menu.footer]]
-name = "Privacy Policy"
-URL = "blog"
-weight = 4
+# [[menu.footer]]
+# name = "Privacy Policy"
+# URL = "blog"
+# weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/below_logo_6.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Below Technologies"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@redlab.com"
+address = "Schwerzgrubstrasse 11, 8903 Birmensdorf"
+mobile = "+41 79 8761257"
+email = "info@below.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -146,7 +146,8 @@ link = "contact"
 # google map
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCwebHyHbz4ExAMOOVgm-jszd3vuQIvS4s"
+# gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
@@ -213,7 +214,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # footer content
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat."
+footer_content = "Innovative Products and Know-How for your Ideas and Projects"
 
 
 ################################### French language #####################################
