@@ -126,7 +126,7 @@ address = "Schwerzgrubstrasse 11, 8903 Birmensdorf"
 mobile = "+41 79 8761257"
 email = "info@below.com"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/mpzyrklo" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # search
@@ -148,8 +148,8 @@ link = "contact"
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCwebHyHbz4ExAMOOVgm-jszd3vuQIvS4s"
 # gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "47.3553"
+map_longitude = "8.43582"
 map_marker = "images/marker.png"
 
 

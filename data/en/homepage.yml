@@ -2,7 +2,7 @@
 banner:
   bg_image: "images/backgrounds/banner.jpg"
   title : "Below Technologies"
-  content : "represents Innovative Products and Know-How for your Ideas and Projects"
+  content : "Innovative Products and Know-How for your Ideas"
             
   # button primary
   button_solid:
@@ -32,7 +32,7 @@ about:
   # content supports markdown, make sure to give enough space, otherwise markdown will not work properly
   content : "
 
-  ## We are here to always <br> help you
+  ## Technological expertise for you
 
   With approximately 5,000-year history of one of the oldest board games in the world, Go has more combinations than the number of atoms in the universe. These days, the computer cannot even roughly calculate them, let alone analyze them all.
 
