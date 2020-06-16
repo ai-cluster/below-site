@@ -9,7 +9,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "redlab" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["Fr"] # desable language from here
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -51,10 +51,20 @@ link = "plugins/google-map/gmap.js"
 ############################## navigation ###############################
 # main menu
 [[menu.main]]
-# name = "About"
-name = "Our references"
-URL = "about"
+name = "Our projects"
+URL = "portfolio"
 weight = 1
+
+# [[menu.main]]
+# weight = 2
+# name = "Our products"
+# URL = "blog"
+
+
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 3
 
 # [[menu.main]]
 # # name = "About"
@@ -104,10 +114,10 @@ weight = 1
 # URL = "about"
 # weight = 2
 
-# [[menu.footer]]
-# name = "Our Service"
-# URL = "service"
-# weight = 3
+[[menu.footer]]
+name = "Our Projects"
+URL = "portfolio"
+weight = 3
 
 # [[menu.footer]]
 # name = "Privacy Policy"
@@ -170,19 +180,7 @@ logo = "images/clients-logo/clients-logo-4.png"
 logo = "images/clients-logo/clients-logo-5.png"
 
 [[params.clients_logo]]
-logo = "images/clients-logo/clients-logo-1.png"
-
-[[params.clients_logo]]
-logo = "images/clients-logo/clients-logo-2.png"
-
-[[params.clients_logo]]
-logo = "images/clients-logo/clients-logo-3.png"
-
-[[params.clients_logo]]
-logo = "images/clients-logo/clients-logo-4.png"
-
-[[params.clients_logo]]
-logo = "images/clients-logo/clients-logo-5.png"
+logo = "images/clients-logo/clients-logo-6.png"
 
 ############################# social icon #################################
 [[params.social]]

@@ -9,7 +9,7 @@ image: "images/about/company_founder.jpg"
 description : "Below Technologies founded to offer Swiss medium-sized companies high-tech IT solutions"
 ---
 
-## Company overview.
+## Our story
 
 With approximately 5,000-year history of one of the oldest board games in the world, Go has more combinations than the number of atoms in the universe. These days, the computer cannot even roughly calculate them, let alone analyze them all.
 

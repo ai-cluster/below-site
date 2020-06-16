@@ -80,34 +80,34 @@ service:
   title : "Our Services"
   service_item:
     # Service item loop
-    - title : "Creative Illustration"
-      icon : "ti-vector" # here we use themefy icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nisi aut cumque pariatur repellendus repellat debitis molestias"
+    - title : "Custom software development"
+      icon : "ti-desktop" # here we use themefy icon pack : https://themify.me/themify-icons
+      content : "More than 300 projects including major infrastructure projects for mobile operators, projects in municipal management, interactive marketing and advertising and financial sector."
       
     # Service item loop
-    - title : "Graphics Design"
-      icon : "ti-palette" # here we use themefy icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nisi aut cumque pariatur repellendus repellat debitis molestias"
+    - title : "Expertise"
+      icon : "ti-user" # here we use themefy icon pack : https://themify.me/themify-icons
+      content : "Deep technical expertise is our core strength. Over the years, we’ve worked with a vast range of technologies at both small and enterprise levels."
       
     # Service item loop
-    - title : "UI/UX Design"
-      icon : "ti-layout" # here we use themefy icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nisi aut cumque pariatur repellendus repellat debitis molestias"
+    - title : "Mobile applications"
+      icon : "ti-mobile" # here we use themefy icon pack : https://themify.me/themify-icons
+      content : "Development of native UI applications Android SDK and NDK, SWIG frameworks. Application development for iPad, iPhone and Apple Watch."
       
     # Service item loop
-    - title : "Web Development"
-      icon : "ti-world" # here we use themefy icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nisi aut cumque pariatur repellendus repellat debitis molestias"
+    # - title : "Web Development"
+    #   icon : "ti-world" # here we use themefy icon pack : https://themify.me/themify-icons
+    #   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nisi aut cumque pariatur repellendus repellat debitis molestias"
       
     # Service item loop
-    - title : "Database Management"
-      icon : "ti-server" # here we use themefy icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nisi aut cumque pariatur repellendus repellat debitis molestias"
+    # - title : "Database Management"
+    #   icon : "ti-server" # here we use themefy icon pack : https://themify.me/themify-icons
+    #   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nisi aut cumque pariatur repellendus repellat debitis molestias"
       
     # Service item loop
-    - title : "Cloud Service"
-      icon : "ti-palette" # here we use themefy icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nisi aut cumque pariatur repellendus repellat debitis molestias"
+    # - title : "Cloud Service"
+    #   icon : "ti-palette" # here we use themefy icon pack : https://themify.me/themify-icons
+    #   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nisi aut cumque pariatur repellendus repellat debitis molestias"
 
 
 ######################### Clients logo slider ################################
