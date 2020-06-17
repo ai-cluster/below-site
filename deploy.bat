@@ -8,7 +8,10 @@ git rm -r .
 cd ..
 
 rem Build the project. if using a theme, replace with `hugo -t <YOURTHEME>`
-hugo -b https://ai-cluster.ru/below
+hugo -b https://ai-bridge.ch
+
+rem Copy CNAME file - it is for custom domain on github
+copy "c-name" "public/CNAME"
 
 rem Go To Public folder
 cd public
