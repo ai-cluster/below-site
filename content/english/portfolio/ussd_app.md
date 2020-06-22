@@ -1,5 +1,5 @@
 ---
-title: "USSD app for management of bank accounts and credit cards without the Internet"
+title: "USSD banking without the Internet"
 draft: false
 # portfolio image
 image: "images/portfolio/portfolio-2.png"
