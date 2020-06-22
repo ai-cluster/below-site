@@ -13,7 +13,7 @@ about_project: "Management system, based on the controllers"
 
 ### The client
 
-Panasonic – Japan’s engineering corporation, one of the world’s largest manufacturers of household appliances and electronic goods.
+Panasonic – one of the world’s largest manufacturers of household appliances and electronic goods.
 
 ### The scope
 

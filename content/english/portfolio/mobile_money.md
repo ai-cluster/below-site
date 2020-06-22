@@ -1,5 +1,5 @@
 ---
-title: "Mobile system for money transfers"
+title: "High-performance Mobile system for money transfers"
 draft: false
 # portfolio image
 image: "images/portfolio/portfolio-8.png"
@@ -13,7 +13,7 @@ about_project: "A system of money transfer via mobile phones"
 
 ### The client
 
-One of the largest aggregator of Nigerian mobile payments and transfers.
+One of the largest aggregator of Nigerian mobile payments and transfers, was connected to the USSD channel.
 
 ### The scope
 

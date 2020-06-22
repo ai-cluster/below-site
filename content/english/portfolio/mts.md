@@ -1,5 +1,5 @@
 ---
-title: "Mobile advertising platform"
+title: "High-performance Mobile advertising platform"
 draft: false
 # portfolio image
 image: "images/portfolio/portfolio-1.png"

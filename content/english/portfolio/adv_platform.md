@@ -13,7 +13,7 @@ about_project: "Mobile advertising platform, which allows managing advertising c
 
 ### The client
 
-Since 1989, when DPC was organized, it has emerged as the dominant market leader in the directories advertising industry in the Philippines today. DPC officially markets YP products and services in the Philippines. Starting out as an Asian pioneer and dominant leader in telephone directories publishing in the country, DPC has evolved into a marketing partner of small and medium enterprises (SMEs) today. The company customizes YP marketing solutions for SMEs, using a suite of online, mobile and print products, plus a host of value-added services.
+Since 1989 DPC has emerged as the dominant market leader in the directories advertising industry in the Philippines. DPC officially markets YP products and services in the Philippines. Starting out as an Asian pioneer and dominant leader in telephone directories publishing in the country, DPC has evolved into a marketing partner of small and medium enterprises (SMEs) today. The company customizes YP marketing solutions for SMEs, using a suite of online, mobile and print products, plus a host of value-added services.
 
 ### The scope
 
