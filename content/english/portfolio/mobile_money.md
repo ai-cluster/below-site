@@ -9,9 +9,10 @@ bg_image: "images/backgrounds/portfolio-page.jpg"
 description : "For transaction processing, integration with mobile operators and banks, as well as the collection of statistics we used our Service Delivery Platform."
 # sidebar project details
 about_project: "A system of money transfer via mobile phones"
+weight : 4
 ---
 
-### The client
+### The client:
 
 One of the largest aggregator of Nigerian mobile payments and transfers, was connected to the USSD channel.
 

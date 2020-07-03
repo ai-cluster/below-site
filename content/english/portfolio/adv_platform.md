@@ -9,9 +9,10 @@ bg_image: "images/backgrounds/portfolio-page.jpg"
 description : "Direct integration with the largest mobile operator in the Philippine"
 # sidebar project details
 about_project: "Mobile advertising platform, which allows managing advertising campaigns, consisting of targeted advertising"
+weight : 8
 ---
 
-### The client
+### The client:
 
 Since 1989 DPC has emerged as the dominant market leader in the directories advertising industry in the Philippines. DPC officially markets YP products and services in the Philippines. Starting out as an Asian pioneer and dominant leader in telephone directories publishing in the country, DPC has evolved into a marketing partner of small and medium enterprises (SMEs) today. The company customizes YP marketing solutions for SMEs, using a suite of online, mobile and print products, plus a host of value-added services.
 

@@ -9,9 +9,10 @@ bg_image: "images/backgrounds/portfolio-page.jpg"
 description : "The technological basis of the new system was USSD dialogue, which provided an opportunity for interactive communication of drivers with the system from any phone model and without the use of mobile data."
 # sidebar project details
 about_project: "Usage of mobile phones instead of smart cards for refuelling and controlling fuel consumption"
+weight : 6
 ---
 
-### The client
+### The client:
 
 Regional gas station network, which operates in the Siberian Federal District, Russia.
 

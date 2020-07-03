@@ -9,9 +9,11 @@ bg_image: "images/backgrounds/portfolio-page.jpg"
 description : "commercial advertising"
 # sidebar project details
 about_project: "One of the proven ways to increase the income of the operator is addition of commercial advertising to the existing channels of communication with subscribers."
+weight : 2
 ---
 
-### The client
+### The client:
+
 Mobile TeleSystems (MTS) is the leading telecommunications group in Russia, Central and Eastern Europe. MTS currently holds licences to provide mobile services in 81 out of 83 regions in Russia and the entire territories of Armenia, Ukraine, Belarus, Uzbekistan, Turkmenistan. The company has over 102.4 million subscribers.
 
 ### The scope

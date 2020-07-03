@@ -55,10 +55,10 @@ name = "Our projects"
 URL = "portfolio"
 weight = 1
 
-# [[menu.main]]
-# weight = 2
-# name = "Our products"
-# URL = "blog"
+[[menu.main]]
+weight = 2
+name = "Our products"
+URL = "products"
 
 
 [[menu.main]]
@@ -109,10 +109,10 @@ name = "Contact Us"
 URL = "contact"
 weight = 1
 
-# [[menu.footer]]
-# name = "About US"
-# URL = "about"
-# weight = 2
+[[menu.footer]]
+name = "Our Products"
+URL = "products"
+weight = 2
 
 [[menu.footer]]
 name = "Our Projects"
