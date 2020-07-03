@@ -9,9 +9,10 @@ bg_image: "images/backgrounds/portfolio-page.jpg"
 description : "A new mobile service “Beeline. Transfer“"
 # sidebar project details
 about_project: "To make a money transfer easy for customers"
+weight : 1
 ---
 
-### The client
+### The client:
 
 Beeline is a Russian telecommunications brand by OJSC VimpelCom. BPJSC VimpelCom is the third-largest wireless and second-largest telecom operator in Russia. Since 2009, OJSC VimpelCom has been a subsidiary of VimpelCom Ltd., which is based in Amsterdam. The operator has 55.7 million subscribers.
 

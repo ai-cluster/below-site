@@ -9,9 +9,10 @@ bg_image: "images/backgrounds/portfolio-page.jpg"
 description : "Inexpensive, easy for installation/maintenance system for remote management of multiple plasma screens from one computer"
 # sidebar project details
 about_project: "Management system, based on the controllers"
+weight : 3
 ---
 
-### The client
+### The client:
 
 Panasonic – one of the world’s largest manufacturers of household appliances and electronic goods.
 

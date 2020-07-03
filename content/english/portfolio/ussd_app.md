@@ -9,9 +9,10 @@ bg_image: "images/backgrounds/portfolio-page.jpg"
 description : "USSD app for management of bank accounts and credit cards without the Internet"
 # sidebar project details
 about_project: "A convenient, fast and secure alternative to SMS bank, that doesn’t require subscribers to access the Internet."
+weight : 7
 ---
 
-### The client
+### The client:
 
 Alfa Bank, the corporate treasury of the Alfa Group, is the largest private commercial bank in Russia. It ranks among top 10 largest banks in terms of capital in Russia and Ukraine.
 

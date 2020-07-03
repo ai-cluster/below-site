@@ -9,9 +9,10 @@ bg_image: "images/backgrounds/portfolio-page.jpg"
 description : "Parking spaces control and payment processing system"
 # sidebar project details
 about_project: "To make the service of managing and paying for parking simple and accessible both to visitors and residents of the city."
+weight : 5
 ---
 
-### The client
+### The client:
 
 The Government of Moscow, the highest executive body of state authority of Moscow.
 
