@@ -1,5 +1,5 @@
 ---
-title: "We provide custom software solutions & products for telecom, finance, and enterprise"
+title: "We provide custom software solutions & products for telecom, finance, and enterprises."
 draft: false
 # page title background image
 bg_image: "images/backgrounds/career-page.jpg"

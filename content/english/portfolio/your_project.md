@@ -12,4 +12,4 @@ about_project: ""
 weight : 9
 ---
 
-### We will be glad and proud to present here the successfully implemented your Project by means of the newest technologies.
+### Here, we will be glad and proud to present your successfully implemented project by means of the newest technologies.

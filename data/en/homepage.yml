@@ -19,7 +19,7 @@ banner:
 ##################### call to action ########################################
 cta:
   enable : true
-  title : "Want to grow your business with smart digital approaches?"
+  title : "Do you want to grow your business with smart digital approaches?"
   button:
     enable : true
     label : "Contact us"
@@ -34,16 +34,16 @@ about:
 
   ## Technological expertise for you
 
-  With approximately 5,000-year history of one of the oldest board games in the world, Go has more combinations than the number of atoms in the universe. These days, the computer cannot even roughly calculate them, let alone analyze them all.
+The board game Go has a history of approximately 5,000 years and is one of the oldest board games in the world. This game has more combinations than the number of atoms in the universe. These days, computers cannot even roughly calculate them, let alone analyze them all.  
 
 
-However, in 2016, Google's AlphaGo machine beat the world champion in this game. Because humans taught them deep learning - a discipline of artificial intelligence - to analyze and learn this game themselves.
+However, in 2016, Google’s AlphaGo machine beat the world champion in this game. Because humans taught computers deep learning - a discipline of artificial intelligence – they can analyze and learn this game themselves.
 
 
-As a Master in Go, a mathematician (Master of Mathematics), fascinated by new technologies with strong conceptual and analytical skills and an Oracle database specialist with solid experience from projects in Germany, Switzerland and the USA, Wladimir Below has a company in November 2017 Below Technologies founded to offer Swiss medium-sized companies high-tech IT solutions."
+Wladimir Below is a Master in Go and a mathematician (Master of Mathematics) as well as an Oracle database specialist with solid experience from projects in Germany, Switzerland, and the USA. He has strong conceptual and analytical skills and has always been fascinated by new technologies. In November 2017, Wladimir founded Below Technologies to offer high-tech IT solutions to Swiss medium-sized companies."
   button:
     enable : true
-    label : "know more"
+    label : "Learn more"
     link : "about"
 
 ################################# testimonial ################################
@@ -82,17 +82,17 @@ service:
     # Service item loop
     - title : "Custom software development"
       icon : "ti-desktop" # here we use themefy icon pack : https://themify.me/themify-icons
-      content : "More than 300 projects including major infrastructure projects for mobile operators, projects in municipal management, interactive marketing and advertising and financial sector."
+      content : "More than 300 projects, including major infrastructure projects for mobile operators, projects in municipal management, interactive marketing and advertising, and the financial sector."
       
     # Service item loop
     - title : "Expertise"
       icon : "ti-user" # here we use themefy icon pack : https://themify.me/themify-icons
-      content : "Deep technical expertise is our core strength. Over the years, we’ve worked with a vast range of technologies at both small and enterprise levels."
+      content : "Deep technical expertise is our core strength. Over the years, we have worked with a vast range of technologies, both on a small and enterprise level."
       
     # Service item loop
     - title : "Mobile applications"
       icon : "ti-mobile" # here we use themefy icon pack : https://themify.me/themify-icons
-      content : "Development of native UI applications Android SDK and NDK, SWIG frameworks. Application development for iPad, iPhone and Apple Watch."
+      content : "Development of native UI applications for Android, SDK, and NDK, SWIG frameworks. Application development for iPad, iPhone, and Apple Watch."
       
     # Service item loop
     # - title : "Web Development"
