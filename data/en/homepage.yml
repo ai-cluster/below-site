@@ -83,17 +83,20 @@ service:
     - title : "Custom software development"
       icon : "ti-desktop" # here we use themefy icon pack : https://themify.me/themify-icons
       content : "More than 300 projects, including major infrastructure projects for mobile operators, projects in municipal management, interactive marketing and advertising, and the financial sector."
+      url : "https://themify.me/themify-icons"
       
     # Service item loop
     - title : "Expertise"
       icon : "ti-user" # here we use themefy icon pack : https://themify.me/themify-icons
       content : "Deep technical expertise is our core strength. Over the years, we have worked with a vast range of technologies, both on a small and enterprise level."
+      url : "https://themify.me/themify-icons"
       
     # Service item loop
     - title : "Mobile applications"
       icon : "ti-mobile" # here we use themefy icon pack : https://themify.me/themify-icons
       content : "Development of native UI applications for Android, SDK, and NDK, SWIG frameworks. Application development for iPad, iPhone, and Apple Watch."
-      
+      url : "https://themify.me/themify-icons"
+
     # Service item loop
     # - title : "Web Development"
     #   icon : "ti-world" # here we use themefy icon pack : https://themify.me/themify-icons
